@@ -40,7 +40,7 @@ The system supports:
 
 ---
 
-## 🚀 Features
+## Features
 
 * ✅ **Completely free & open-source**
 * 🌐 **Multilingual OCR** (Indian + English languages)
